@@ -30,6 +30,7 @@ mood:     "ʕoᴥoʔ  brewing another little tool..."
 
 ## 🧸 what i'm up to
 
+- 💌 just shipped **[uwuMail](https://github.com/KsmBl/uwuMail)** — an android mail client that treats every message as untrusted input *(no beacons, no scripts, no surprises uwu)*
 - 🦀 building **[wryayer](https://github.com/KsmBl/wryayer)** — isolated per-app package management with bubblewrap sandboxes *(no root, no containers, sooo clean uwu)*
 - 🌸 daily-driving **Arch + Wayland**, everything wrapped in cozy **Catppuccin Mocha**
 - 🖥️ making a little family of kawaii **PyQt6 desktop widgets** ~
@@ -51,12 +52,14 @@ mood:     "ʕoᴥoʔ  brewing another little tool..."
 <img src="https://img.shields.io/badge/c%23-f5c2e7?style=for-the-badge&logo=dotnet&logoColor=1e1e2e" />
 <img src="https://img.shields.io/badge/javascript-f9e2af?style=for-the-badge&logo=javascript&logoColor=1e1e2e" />
 <img src="https://img.shields.io/badge/svelte-fab387?style=for-the-badge&logo=svelte&logoColor=1e1e2e" />
+<img src="https://img.shields.io/badge/kotlin-b4befe?style=for-the-badge&logo=kotlin&logoColor=1e1e2e" />
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/arch_linux-89dceb?style=for-the-badge&logo=arch-linux&logoColor=1e1e2e" />
 <img src="https://img.shields.io/badge/wayland-f9e2af?style=for-the-badge&logo=wayland&logoColor=1e1e2e" />
 <img src="https://img.shields.io/badge/PyQt6-a6e3a1?style=for-the-badge&logo=qt&logoColor=1e1e2e" />
 <img src="https://img.shields.io/badge/raspberry_pi-f38ba8?style=for-the-badge&logo=raspberrypi&logoColor=1e1e2e" />
+<img src="https://img.shields.io/badge/android-94e2d5?style=for-the-badge&logo=android&logoColor=1e1e2e" />
 </p>
 
 <div align="center">
@@ -69,9 +72,11 @@ mood:     "ʕoᴥoʔ  brewing another little tool..."
 
 | | project | what it does |
 |:-:|---------|--------------|
+| 💌 | **[uwuMail](https://github.com/KsmBl/uwuMail)** | a multi-account imap mail client for android — regex rules that catch mail before it ever pings you, tracking pixels that never get requested, and folders that live only on your phone `(≧◡≦)` |
 | ♟️ | **[chessWar](https://github.com/KsmBl/chessWar)** | a chess variant where the round's loser drafts piece-ability upgrades or board hazards, kept all session — win by capturing the king ~ pyside6 desktop app with ai, hotseat & online play `(๑˃ᴗ˂)ﻭ` |
 | 🦀 | **[wryayer](https://github.com/KsmBl/wryayer)** | isolated per-app package management for arch / debian / fedora — no root, no containers, just bubblewrap sandboxes |
 | 💿 | **[Warch](https://github.com/KsmBl/Warch)** | a live linux distro builder (debian 12/13 & arch) |
+| 📁 | **[smbmanager](https://github.com/KsmBl/smbmanager)** | share folders over smb on arch, the cozy way — installs samba on demand, starts & stops it for you, and manages shares through a lil polkit helper without ever rewriting your smb.conf |
 | 🎛️ | **[streamdeck-linux-gui](https://github.com/KsmBl/streamdeck-linux-gui-KsmBl)** | my build of a linux-compatible ui for the elgato stream deck |
 | 🧩 | **[tetris-tetrio](https://github.com/KsmBl/tetris-tetrio)** | a lil TETR.IO clone written in c# |
 
