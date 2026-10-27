@@ -75,9 +75,11 @@ mood:     "ʕoᴥoʔ  brewing another little tool..."
 | 💌 | **[uwuMail](https://github.com/KsmBl/uwuMail)** | a multi-account imap mail client for android — regex rules that catch mail before it ever pings you, tracking pixels that never get requested, and folders that live only on your phone `(≧◡≦)` |
 | ♟️ | **[chessWar](https://github.com/KsmBl/chessWar)** | a chess variant where the round's loser drafts piece-ability upgrades or board hazards, kept all session — win by capturing the king ~ pyside6 desktop app with ai, hotseat & online play `(๑˃ᴗ˂)ﻭ` |
 | 🦀 | **[wryayer](https://github.com/KsmBl/wryayer)** | isolated per-app package management for arch / debian / fedora — no root, no containers, just bubblewrap sandboxes |
-| 💿 | **[Warch](https://github.com/KsmBl/Warch)** | a live linux distro builder (debian 12/13 & arch) |
+| 🪟 | **[tileWin](https://github.com/KsmBl/tileWin)** | a wayland compositor with a sway-compatible tile mode *and* a windows-like window mode — themable taskbar (win95 / xp / 7 / 10 / 11), flyouts, a settings app & session restore `(✿◠‿◠)` |
+| 🔐 | **[ssm](https://github.com/KsmBl/selfhosted-secure-messenger)** | my selfhosted secure messenger — end-to-end encrypted chats & files for android and linux, the server only ever sees ciphertext, unlock with a 5×5 dot pattern ~ rust server, gtk4 & compose clients `( •̀ ω •́ )✧` |
 | 📁 | **[smbmanager](https://github.com/KsmBl/smbmanager)** | share folders over smb on arch, the cozy way — installs samba on demand, starts & stops it for you, and manages shares through a lil polkit helper without ever rewriting your smb.conf |
-| 🎛️ | **[streamdeck-linux-gui](https://github.com/KsmBl/streamdeck-linux-gui-KsmBl)** | my build of a linux-compatible ui for the elgato stream deck |
+| 🗂️ | **[failBrauwser](https://github.com/KsmBl/failBrauwser)** | a fast native gtk3 file manager in the spirit of thunar that opens & edits archives like folders (zip, 7z, tar, iso …) — fast copies, thumbnails, search & a drives page |
+| 🎮 | **[gamingCrypt](https://github.com/KsmBl/gamingCrypt)** | a fullscreen touch launcher for linux gaming handhelds — unlock a veracrypt game drive with pin, password or pattern, then browse, play, install & uninstall your steam games |
 | 🧩 | **[tetris-tetrio](https://github.com/KsmBl/tetris-tetrio)** | a lil TETR.IO clone written in c# |
 
 <div align="center">
